@@ -8,7 +8,7 @@ from the THETA Developers community for more information.
 JavaScript will not work from within the browser directly. You must
 use Node.js or equivalent.
 
-The THETA S will accept a standard HTTP POST command. You command
+The THETA S will accept a standard HTTP POST command. You can
 access the THETA directly with POST. You do not need these modules.
 To get you started faster, there are two different node modules
 with source code available that handle the connection and parameters:
