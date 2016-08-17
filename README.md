@@ -75,3 +75,6 @@ Following code is example of capturing and download movies.
     }).catch(function (error) {
       console.log(error);
     });
+
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/javascript-examples)
